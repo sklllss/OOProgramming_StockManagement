@@ -1,4 +1,5 @@
-# April 2024 Project
+# Java Object Oriented Programming Project
+Apr 2024
 
 ## Stock Management 
 ### Feature
